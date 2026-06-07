@@ -1,0 +1,50 @@
+the internet is a global network connecting billions of devices.
+hypertext transfer protocol secure often abbreviated as https encrypts communication over the web.
+a central processing unit commonly called a cpu executes the instructions of computer programs.
+random access memory or ram temporarily stores data for fast access by the processor.
+an operating system manages hardware resources and provides common services for software.
+binary code uses only two symbols zero and one to represent all data and instructions.
+a firewall monitors and controls network traffic based on predetermined security rules.
+cloud computing provides on demand computing resources like storage and servers over the internet.
+the world wide web also known as www is a collection of web pages accessed via browsers.
+a programming language such as python allows humans to write instructions a computer can execute.
+the earth has seven continents africa antarctica asia australia europe north america and south america.
+the pacific ocean is the largest and deepest ocean on the planet.
+mount everest in the himalayas is the tallest mountain above sea level.
+the nile is often cited as the longest river in the world flowing through northeastern africa.
+the sahara in northern africa is the largest hot desert on earth.
+the equator is an imaginary line dividing the earth into the northern and southern hemispheres.
+tectonic plates float on the mantle and their movements cause earthquakes and volcanoes.
+the amazon rainforest produces about six percent of the world's oxygen and has immense biodiversity.
+the capital city of japan is tokyo.
+greenland is the largest island on earth that is not classified as a continent.
+the cell is the fundamental unit of life in all living organisms.
+dna or deoxyribonucleic acid carries the genetic instructions for the development of all known organisms.
+mitochondria are organelles that generate most of a cell's chemical energy often called the powerhouse.
+photosynthesis is the process green plants use to convert sunlight water and carbon dioxide into glucose and oxygen.
+the adult human body typically has two hundred and six bones.
+the brain serves as the command center of the nervous system handling thought memory and emotion.
+bacteria are single celled microorganisms that inhabit virtually every environment on earth.
+evolution by natural selection explains how species adapt and change over successive generations.
+the heart is a muscular organ that pumps blood through the circulatory system.
+ecosystems consist of communities of living organisms interacting with their physical surroundings.
+artificial intelligence is the field of creating machines capable of tasks that typically require human intelligence.
+machine learning is a branch of ai where algorithms improve their performance through experience and data.
+neural networks are computing systems inspired by the structure of the human brain with interconnected nodes.
+deep learning utilizes neural networks with many hidden layers to model highly complex patterns.
+natural language processing enables computers to interpret generate and understand human language.
+computer vision trains machines to extract information from digital images and videos.
+reinforcement learning is a technique where an agent learns optimal actions by receiving rewards or penalties.
+a large language model is trained on massive text datasets to predict and generate coherent language.
+supervised learning uses labeled training data to teach a model the mapping from inputs to outputs.
+backpropagation is an algorithm that calculates the gradient of the loss function to update neural network weights.
+the pythagorean theorem states that in a right triangle the square of the hypotenuse equals the sum of the squares of the other two sides.
+the constant pi approximately three point one four one five nine is the ratio of a circle's circumference to its diameter.
+a prime number is a natural number greater than one divisible only by one and itself.
+calculus studies continuous change through derivatives and integrals.
+algebra uses symbols and letters to represent numbers in equations and formulas.
+the fibonacci sequence begins with zero and one and each subsequent number is the sum of the two preceding ones.
+probability quantifies the chance of an event as a number between zero and one.
+a logarithm is the inverse operation to exponentiation answering the question to what power a base must be raised.
+euclidean geometry explores flat space and relationships among points lines angles and planes.
+euler's number e roughly two point seven one eight two eight is the base of the natural logarithm.
