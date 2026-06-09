@@ -1,0 +1,13 @@
+# tests
+
+tests/
+test_*
+
+# builds
+
+peeker
+*.exe
+
+# models
+peeker_models/
+*_models/

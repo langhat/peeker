@@ -11,10 +11,18 @@ using std::map;
 class Model {
 	map<string, map<string, float>> record;
 	const size_t meaningMax = 25;
-	const float relMin = 0.05;
+	const float relMin = 0.05, sharpRate = 1.0;
 
 	float next(float k) const noexcept {
 		return k > 1 ? 1 / k : 1;
+	}
+
+	float sum(const map<string, float> k) const noexcept {
+		float result = 0.0f;
+		for(const auto &[key, val]: k) {
+			result += val;
+		}
+		return result > 50.0 ? result : sharpRate;
 	}
 public:
 	void train(const vector<string> &words) noexcept {
@@ -32,12 +40,13 @@ public:
 		for(const auto &word: words) {
 			if(record[word].size() > meaningMax) continue;
 			for(const auto &[key, val]:record[word]) {
-				weights[key] += val;
+				weights[key] += val * (sharpRate / (sum(record[key]) + sum(record[word])) );
+				//weights[key] += val * (1 / record[key].size())/*( exp(-record[key].size() * 0.1f))*/;
 			}
 		}
 
 		for(auto &[key, val] : weights) {
-			if(record[key].size() > meaningMax) val = 0.0;
+			//if(record[key].size() > meaningMax) val = 0.0;
 		}
 
 		// Softmax it
